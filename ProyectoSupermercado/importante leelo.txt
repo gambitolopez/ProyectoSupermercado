@@ -1,0 +1,3 @@
+**** importante ****
+
+Necesitas instalar BD mysql con entorno grafico apache
